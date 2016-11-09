@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class Libro {
    private String titulo,autor;
    private int nExemplares,nPrestados;
-
+//d
 
 public Libro(){
 
